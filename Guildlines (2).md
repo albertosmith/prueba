@@ -1,30 +1,24 @@
-- *Class*: 
-- *Ship*:
-- *Main Gun*: 
-- *Shell*:
-- *FCS*:
-- *Max Range*: 
-- *Damage*: 
+BOTS
 
 ### U.S. Navy 
-| Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun shell| Reload | Kn | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| BB1 | Alaska | 12"/50 cal Mark 8 | Light | 75 | Untested | 2868 |
-| EBB1 | New York | 14"/45 cal Mark 12 | Unique | 75 | 2556 | Untested |
-| PBB1 | USN_Sevastopol | 12"/52 Pattern 1907 | Unique | 75 | 2710 | Untested |
-| BB3 | South Dakota | 16"/50 cal Mark 3 L | Light | 75 | 2762 | Untested |
-| BB3 | North Carolina | 16"/45 cal Mark 6 L | Light | 75 | 2800 | 3300 |
-| EBB3 | Indiana | 16"/45 cal Mark 6 L | Light | 80 | 2800 | 3300 |
-| EBB4.5 | Missouri | 16"/50 cal Mark 7 W23 | Light | 80 | 2936 | 3450 |
-| BB5 | Montana | 16"/50 cal Mark 7 Mod 1 | Unique | 80 | 2936 | 3450 |
-| EBB5 | California | 18"/48 cal BH-427 | Unique | 80 | 2950 | 3468 |
-| BB6 | Nebraska | 18"/48 cal Mark 2 | Unique | 80 | 3064 | 3572 |
-| EBB6 | New Jersey | 18"/48 cal BD-119 | Unique | 80 | 3064 | 3572 |
-| BB6.5 | Oklahoma | 18"/48 cal Mark 3 | Unique | 80 | 3088 | 3598 |
-| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | Unique | 80 | 3106-3108 | 3618 |
+| BB1 | Alaska | 12"/50 cal Mark 8 Light| Light | 75 | Untested | 2868 |
+| EBB1 | New York | 14"/45 cal Mark 12 Unique | Unique | 75 | 2556 | Untested |
+| PBB1 | USN_Sevastopol | 12"/52 Pattern 1907 Unique | Unique | 75 | 2710 | Untested |
+| BB3 | South Dakota | 16"/50 cal Mark 3 L Light | Light | 75 | 2762 | Untested |
+| BB3 | North Carolina | 16"/45 cal Mark 6 L Light| Light | 75 | 2800 | 3300 |
+| EBB3 | Indiana | 16"/45 cal Mark 6 L Ligth| Light | 80 | 2800 | 3300 |
+| EBB4.5 | Missouri | 16"/50 cal Mark 7 W23 Light | Light | 80 | 2936 | 3450 |
+| BB5 | Montana | 16"/50 cal Mark 7 Mod 1 Unique | Unique | 80 | 2936 | 3450 |
+| EBB5 | California | 18"/48 cal BH-427 Unique | Unique | 80 | 2950 | 3468 |
+| BB6 | Nebraska | 18"/48 cal Mark 2 Unique | Unique | 80 | 3064 | 3572 |
+| EBB6 | New Jersey | 18"/48 cal BD-119 Unique| Unique | 80 | 3064 | 3572 |
+| BB6.5 | Oklahoma | 18"/48 cal Mark 3 Unique | Unique | 80 | 3088 | 3598 |
+| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 Unique | Unique | 80 | 3106-3108 | 3618 |
 
 ### Royal Navy 
-| Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PCA | Furious | 15"/45 cal Mark II | Light | 75 | 2464 | Untested |
 | BB2 | Queen Elizabeth | 15"/42 cal Mark III | Light | 75 | 2782 | Untested |
@@ -45,7 +39,7 @@
 | BB7 | King George VI | 18"/50 Mark III | Unique | 80 | 3086 | Untested |
 
 ### Kriegsmarine 
-| Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Damgage |
+| Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damgage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | KM_Andria Doria | 12.6"/44 Model 1936 | Unique | 78 | 2728 | 3220 |
 | BB3 | O Project II | 14.96"/52 SK C/34o L | Light | 78 | 2782 | 3282 |
@@ -65,7 +59,7 @@
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3130-3132 | Untested |
 
 ### Imperial Navy 
-| Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | B65 Project | 12.2"/50 Model 1940 | Unique | 75 | 2750 | 3200 |
 | BB2 | Ise(1943) | 14"/45 Type 43A | Light | 75 | 2500 | Untested |
@@ -82,7 +76,7 @@
 | BB7 | Izmi | 20.5"/45 Type 98C | Unique | 80 | 3090 | Untested |
 
 ### Marine Nationale 
-| Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PCA | Mandel | 12"/45 cal Model 1910 | Unique | 70 | 2365 | Untested |
 | PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
@@ -99,7 +93,7 @@
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021-3023 | Untested |
 
 ### Soviet Navy 
-| Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PCA | Petropavlovsk | 10"/50 Pattern 1908 | Unique | 74 | 2448 | Untested |
 | PBB1 | SN_Sevastopol | 12"/52 Pattern 1907 | Unique | 77 | 2713 | Untested |
