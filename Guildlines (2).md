@@ -11,13 +11,13 @@ BOTS
 | EBB3 | Indiana | 16"/45 cal Mark 6 L Ligth| Light | 80 | 2800 | 3300 |
 | EBB4 | Iowa| 16¨/50 Cal Mark 7L Light | 17.16sec 45g| 80 | 2950 | 3468 |
 | EBB4.5 | Missouri | 16"/50 cal Mark 7 W23 Light | Light | 80 | 2936 | 3450 |
-| BB5 | Montana | 16"/50 cal Mark 7 Mod 1 Unique | 18.56sec 45g  | 80 | 2955| 1407|
-| EBB5 | California | 16¨/50 Cal Mark7W23 Unique |18.56sec 45g | 80 | 2955| 1407|
-| EBB5.5 | Illinois | 18"/48 cal BH-427 Unique |19.68sec 40g | 80 | 2977| 2000|
-| BB6 | Nebraska | 18"/48 cal Mark 2 Unique | 20.20sec 40g| 80 | 3088| 1707|
-| EBB6 | New Jersey | 18"/48 cal BD-119 Unique| Unique | 80 | 3064 | 3572 |
-| BB6.5 | Oklahoma | 18"/48 cal Mark 3 Unique | Unique | 80 | 3088 | 3598 |
-| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 Unique | Unique | 80 | 3106-3108 | 3618 |
+| BB5 | Montana | 16"/50 cal Mark 7 Mod 1 Unique | 18.56sec 45g  | 80 | 2955| 1407 |
+| EBB5.5 | Illinois | 16¨/50 Cal Mark7W23 Unique |18.56sec 45g | 80 | 2955| 2000 |
+| EBB5.5 | California | 18"/48 cal BH-427 Unique |19.68sec 40g | 80 | 2977| 1407 |
+| BB6 | Nebraska | 18"/48 cal Mark 2 Unique | 20.20sec 40g| 80 | 3088 | 1707 |
+| EBB6 | New Jersey | 18"/48 cal BD-119 Unique| 20.44 40g | 80 | 3088 | 1707 |
+| BB6.5 | Oklahoma | 18"/48 cal Mark 3 Unique | 19.92 40| 80 | 3088 | 1870|
+| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 Unique | 19.92 40 | 80 | 3106-3108 | 1870 |
 
 ### Royal Navy 
 | Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damage |
