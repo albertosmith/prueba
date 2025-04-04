@@ -5,17 +5,17 @@ BOTS
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB1 | Alaska | 12"/50 cal Mark 8 Light| Light | 75 | Untested | 2868 |
 | EBB1 | New York | 14"/45 cal Mark 12 Unique | Unique | 75 | 2556 | Untested |
-| PBB1 | USN_Sevastopol | 12"/52 Pattern 1907 Unique | Unique | 75 | 2710 | Untested |
+| PBB1 | USN_Sevastopol | 12"/52 Pattern 1907 Unique | 14.08 -40| 75-40 | 2729| 935|
 | BB3 | South Dakota | 16"/50 cal Mark 3 L Light | Light | 75 | 2762 | Untested |
 | BB3 | North Carolina | 16"/45 cal Mark 6 L Light| Light | 75 | 2800 | 3300 |
 | EBB3 | Indiana | 16"/45 cal Mark 6 L Ligth| Light | 80 | 2800 | 3300 |
 | EBB4 | Iowa| 16¨/50 Cal Mark 7L Light  - | 17.16-45| 80 | 2950 | 3468 |
 | EBB4.5 | Missouri | 16"/50 cal Mark 7 W23 Light | Light | 80 | 2936 | 3450 |
 | BB5 | Montana | 16"/50 cal Mark 7 Mod 1 -100| 18.56 -45 | 80-35 | 2955 | 1407 |
-| EBB5.5 | Illinois | 16¨/50 Cal Mark7W23 -101|18.56 -45 | 80-35 | 2955 | 1407 |
-| EBB5.5 | California | 18"/48 cal BH-427 -115|19.68 -40 | 80-30 | 2977 | 2000 |
-| BB6 | Nebraska | 18"/48 cal Mark 2 -120| 20.20 -40 | 80-30 | 3088 | 1707 |
-| EBB6 | New Jersey | 18"/48 cal BD-119| 20.44 -40 | 80-30 | 3088 | 1707 |
+| EBB5.5 | Illinois | 16¨/50 Cal Mark7W23  -101|18.56 -45 | 80-35 | 2955 | 1407+245 |
+| EBB5.5 | California | 18"/48 cal BH-427   -115|19.68 -40 | 80-30 | 2977 | 2000 |
+| BB6 | Nebraska | 18"/48 cal Mark 2   -120| 20.20 -40 | 80-30 | 3088 | 1767 |
+| EBB6 | New Jersey | 18"/48 cal BD-119  120| 20.44 -40 | 80-30 | 3088 | 1767 |
 | BB6.5 | Oklahoma | 18"/48 cal Mark 3 | 19.92 -40 | 80-30 | 3088 | 1870|
 | BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | 19.92 -40 | 80-30 | 3122 | 1870 |
 
@@ -24,7 +24,7 @@ BOTS
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PCA | Furious | 15"/45 cal Mark II | Light | 75 | 2464 | Untested |
 | BB2 | Queen Elizabeth | 15"/42 cal Mark III | Light | 75 | 2782 | Untested |
-| PBB1 | RN_Dunkerque | 13"/50 Model 1931 | Unique | 80 | 2728 | 3208 |
+| PBB1 | RN_Dunkerque | 13"/50 Model 1931  -61 | 14.00 -35| 80-40 | 2739| 1025|
 | BB3 | King George V | 14"/45 Mark III | Light | 75 | 2484 | Untested |
 | EBB3 | Hood (1939) | 15"/42 cal Mark III L | Light | 75 | 2792 | Untested |
 | EBB3.5 | Anson | 14"/45 BL Mark III | Unique | 75 | 2878 | Untested |
@@ -36,7 +36,7 @@ BOTS
 | EBB5.5 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40| 80-30 | 2967| 1720+232 |
 | EBB5.5 | Duke of Cornwall | 18" Mark II BL-103 | 19.55-40| 80-30 | 2977| 1525+232 |
 | BB6 | Queen Victoria | 18"/50 Mark II | 20.32 -40| 80-30 | 3057 | 1565+50 |
-| EBB6 | Thunderer | 18"/50 Mark II RL | 20.50 -40| 80-30 | 3057 | 1565 |
+| EBB6 | Thunderer | 18"/50 Mark II RL | 20.56 -40| 80-30 | 3057 | 1565 |
 | BB6.5 | Conqueror | 18"/45 Marks II | 20.12-40| 80-30 | 3071| 1685 |
 | BB7 | King George VI | 18"/50 Mark III | Unique | 80-30 | 3086 | Untested |
 
@@ -70,8 +70,9 @@ BOTS
 | BB4 | Yamato | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
 | EBB4 | Musashi | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
 | EBB4.5 | Shinano | 20.1"/45 A-150 -103 | 18.00 -45| 80-30 | 2970| 3499 |
-| BB5 | Super Yamato | 18.9"/45 Type 5  -100 | Unique | 80 | 2958 | 3438 |
-| EBB5 | Mikawa | 18.9" SD-799  -101 | 19.84 -45| 80-30 | 2976| 1500 |
+| BB5 | Super Yamato | 18.9"/45 Type 5  -100 | 19.84 -45| 80-30 | 2976 | 1500 |
+| EBB5 | Mikawa | 18.9" Type 5 Kna  -101 | 19.84 -45| 80-30 | 2976| 1500 |
+| BB5.5 | Izumo| 18.9¨SD-799  115 | 20.16 -45| 80-30 | 2981| 1940|
 | BB6 | Amagi | 20.5"/45 Type 98B | 20.44 -45| 80-30 | 3046 | 1835 |
 | EBB6 | Atago | 20.5"/45 K-1942 | 20.55 -45| 80-30 | 3046 | 1835 |
 | BB6.5 | Yamato (1945) | 18.1"/45 Type 95 | Unique | 80 | 3060 | Untested |
