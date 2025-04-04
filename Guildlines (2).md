@@ -1,7 +1,7 @@
 BOTS
 
 ### U.S. Navy 
-| Class | Ship  | Main Gun shell| Reload Grades | Kn | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun-lvl| Reload Grades | Kn | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB1 | Alaska | 12"/50 cal Mark 8 Light| Light | 75 | Untested | 2868 |
 | EBB1 | New York | 14"/45 cal Mark 12 Unique | Unique | 75 | 2556 | Untested |
@@ -20,7 +20,7 @@ BOTS
 | BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 Unique | 19.92 40 | 80 | 3106-3108 | 1870 |
 
 ### Royal Navy 
-| Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damage |
+| Class | Ship  | Main Gun Shell | Reload-grades | FCS | Max Range Guideline | Damage |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PCA | Furious | 15"/45 cal Mark II | Light | 75 | 2464 | Untested |
 | BB2 | Queen Elizabeth | 15"/42 cal Mark III | Light | 75 | 2782 | Untested |
@@ -32,13 +32,13 @@ BOTS
 | BB4 | Vangurad | 15"/42 cal Mark IV L | Light | 80 | 2898 | 3386 |
 | EBB4 | Vanguard(1946) | 15"/42 cal RP12 SL | Unique | 80 | 2898 | 3386 |
 | EBB4.5 | Temeraire | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
-| BB5 | Lion II | 18"/45 Mark II | Unique | 80 | 2960 | 3436 |
-| EBB5 | Duke of Edinburgh | 18" Mark II H-2 | Unique | 80 | 2958 | 3436 |
-| EBB5.5 | Duke of Cornwall | 18" Mark II BL | Unique | 80 | 2960 | 3436 |
-| BB6 | Queen Victoria | 18"/50 Mark II | Unique | 80 | 3040 | 3516 |
-| EBB6 | Thunderer | 18"/50 Mark II RL | Unique | 80 | 3040 | 3516 |
-| BB6.5 | Conqueror | 18"/45 Marks II | Unique | 80 | 3046 | Untested |
-| BB7 | King George VI | 18"/50 Mark III | Unique | 80 | 3086 | Untested |
+| BB5 | Lion II | 18"/45 Mark II | 19.52-40 | 80 | 2977 | 1525+232 |
+| EBB5.5 | Duke of Edinburgh | 18" Mark II H-2-115| 19.88-40| 80-30 | 2967| 1720+232 |
+| EBB5.5 | Duke of Cornwall | 18" Mark II BL-103 | 19.55-40| 80-30 | 2977| 1525+232 |
+| BB6 | Queen Victoria | 18"/50 Mark II | 20.32-40| 80-30 | 3057 | 1565+50 |
+| EBB6 | Thunderer | 18"/50 Mark II RL | Unique | 80-30 | 3057 | 3516 |
+| BB6.5 | Conqueror | 18"/45 Marks II | Unique | 80-30 | 3046 | Untested |
+| BB7 | King George VI | 18"/50 Mark III | Unique | 80-30 | 3086 | Untested |
 
 ### Kriegsmarine 
 | Class | Ship  | Main Gun Shell | Shell | FCS | Max Range Guideline | Damgage |
