@@ -9,15 +9,15 @@ BOTS
 | BB3 | South Dakota | 16"/50 cal Mark 3 L Light | Light | 75 | 2762 | Untested |
 | BB3 | North Carolina | 16"/45 cal Mark 6 L Light| Light | 75 | 2800 | 3300 |
 | EBB3 | Indiana | 16"/45 cal Mark 6 L Ligth| Light | 80 | 2800 | 3300 |
-| EBB4 | Iowa| 16¨/50 Cal Mark 7L Light | 17.16sec 45g| 80 | 2950 | 3468 |
+| EBB4 | Iowa| 16¨/50 Cal Mark 7L Light  - | 17.16-45| 80 | 2950 | 3468 |
 | EBB4.5 | Missouri | 16"/50 cal Mark 7 W23 Light | Light | 80 | 2936 | 3450 |
-| BB5 | Montana | 16"/50 cal Mark 7 Mod 1 -100| 18.56s-45 | 80-35 | 2955| 1407 |
-| EBB5.5 | Illinois | 16¨/50 Cal Mark7W23 -101|18.56-45 | 80-35 | 2955| 1407 |
-| EBB5.5 | California | 18"/48 cal BH-427 -115|19.68-40 | 80-30 | 2977| 2000 |
-| BB6 | Nebraska | 18"/48 cal Mark 2 -120| 20.20-40 | 80 | 3088 | 1707 |
-| EBB6 | New Jersey | 18"/48 cal BD-119 20.44-40 | 80 | 3088 | 1707 |
-| BB6.5 | Oklahoma | 18"/48 cal Mark 3 | 19.92-40 | 80 | 3088 | 1870|
-| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | 19.92-40 | 80 | 3106-3108 | 1870 |
+| BB5 | Montana | 16"/50 cal Mark 7 Mod 1 -100| 18.56 -45 | 80-35 | 2955 | 1407 |
+| EBB5.5 | Illinois | 16¨/50 Cal Mark7W23 -101|18.56 -45 | 80-35 | 2955 | 1407 |
+| EBB5.5 | California | 18"/48 cal BH-427 -115|19.68 -40 | 80-30 | 2977 | 2000 |
+| BB6 | Nebraska | 18"/48 cal Mark 2 -120| 20.20 -40 | 80-30 | 3088 | 1707 |
+| EBB6 | New Jersey | 18"/48 cal BD-119| 20.44 -40 | 80-30 | 3088 | 1707 |
+| BB6.5 | Oklahoma | 18"/48 cal Mark 3 | 19.92 -40 | 80-30 | 3088 | 1870|
+| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | 19.92 -40 | 80-30 | 3122 | 1870 |
 
 ### Royal Navy 
 | Class | Ship  | Main Gun Shell | Reload-Grades | FCS-RB | Max Range Guideline | Damage |
@@ -32,12 +32,12 @@ BOTS
 | BB4 | Vangurad | 15"/42 cal Mark IV L | Light | 80 | 2898 | 3386 |
 | EBB4 | Vanguard(1946) | 15"/42 cal RP12 SL | Unique | 80 | 2898 | 3386 |
 | EBB4.5 | Temeraire | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
-| BB5 | Lion II | 18"/45 Mark II | 19.52-40 | 80 | 2977 | 1525+232 |
-| EBB5.5 | Duke of Edinburgh | 18" Mark II H-2-115| 19.88-40| 80-30 | 2967| 1720+232 |
+| BB5 | Lion II | 18"/45 Mark II | 19.52 -40 | 80-30 | 2977 | 1525+232 |
+| EBB5.5 | Duke of Edinburgh | 18" Mark II H-2  -115| 19.88-40| 80-30 | 2967| 1720+232 |
 | EBB5.5 | Duke of Cornwall | 18" Mark II BL-103 | 19.55-40| 80-30 | 2977| 1525+232 |
-| BB6 | Queen Victoria | 18"/50 Mark II | 20.32-40| 80-30 | 3057 | 1565+50 |
-| EBB6 | Thunderer | 18"/50 Mark II RL | Unique | 80-30 | 3057 | 3516 |
-| BB6.5 | Conqueror | 18"/45 Marks II | Unique | 80-30 | 3046 | Untested |
+| BB6 | Queen Victoria | 18"/50 Mark II | 20.32 -40| 80-30 | 3057 | 1565+50 |
+| EBB6 | Thunderer | 18"/50 Mark II RL | 20.50 -40| 80-30 | 3057 | 1565 |
+| BB6.5 | Conqueror | 18"/45 Marks II | 20.12-40| 80-30 | 3071| 1685 |
 | BB7 | King George VI | 18"/50 Mark III | Unique | 80-30 | 3086 | Untested |
 
 ### Kriegsmarine 
@@ -53,11 +53,11 @@ BOTS
 | EBB4 | H41 Project | 16"/52 SK C/34 L | Light | 80 | 2934 | Untested |
 | EBB4.5 | J39 Class | 20"/48 SK C/40 Plan Z | Unique | 80 | 2974 | 3500 |
 | BB5 | H44 Class | 20"/48 SK C/40 | Unique | 80 | 2972-2974 | 3500 |
-| EBB5 | Stresemann | 20"/48 KL-00 | Unique | 80 | 2972-2974 | 3500 |
-| EBB5.5 | K39 Class | 20"/48 KL-00 | Unique | 80 | 2972-2974 | 3500 |
-| BB6 | Kaiser | 20"/45 SK C/40 | Unique | 80 | 3094-3096 | 3620 |
-| EBB6 | Koenig Albert | 20"/45 KC-WW | Unique | 80 | 3094-3096 | 3620 |
-| BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3108-3110 | Untested |
+| EBB5 | Stresemann | 20"/48 KL-00 | 19.80 -37| 80-35 | 2991 | 1600+1AP |
+| EBB5.5 | K39 Class | 20"/48 KL-00 | 19.80 -37| 80-35 | 2991 | 1600+1AP |
+| BB6 | Kaiser | 20"/45 SK C/40 | 20.08-40| 80-30 | 3117| 1050 |
+| EBB6 | Koenig Albert | 20"/45 KC-WW | 20.26-40| 80-30 | 3117 | 1050 |
+| BB6.5 | J44 Class | 18"/45 SK C/34b | 21.36-37| 80-30 | 3136 | 1605 |
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3130-3132 | Untested |
 
 ### Imperial Navy 
@@ -69,11 +69,11 @@ BOTS
 | EBB3.5 | Ashitaka | 14.2"/45 Type 6 | Unique | 80 | 2902 | 3384 |
 | BB4 | Yamato | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
 | EBB4 | Musashi | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
-| EBB4.5 | Shinano | 20.1"/45 A-150 | Unique | 80 | 2966 | 3448 |
-| BB5 | Super Yamato | 18.9"/45 Type 5 | Unique | 80 | 2958 | 3438 |
-| EBB5 | Mikawa | 18.9" SD-799 | Unique | 80 | 2958-2960 | 3440 |
-| BB6 | Amagi | 20.5"/45 Type 98B | Unique | 80 | 3046 | 3530 |
-| EBB6 | Atago | 20.5"/45 K-1942 | Unique | 80 | 3046 | 3530 |
+| EBB4.5 | Shinano | 20.1"/45 A-150 -103 | 18.00 -45| 80-30 | 2970| 3499 |
+| BB5 | Super Yamato | 18.9"/45 Type 5  -100 | Unique | 80 | 2958 | 3438 |
+| EBB5 | Mikawa | 18.9" SD-799  -101 | 19.84 -45| 80-30 | 2976| 1500 |
+| BB6 | Amagi | 20.5"/45 Type 98B | 20.44 -45| 80-30 | 3046 | 1835 |
+| EBB6 | Atago | 20.5"/45 K-1942 | 20.55 -45| 80-30 | 3046 | 1835 |
 | BB6.5 | Yamato (1945) | 18.1"/45 Type 95 | Unique | 80 | 3060 | Untested |
 | BB7 | Izmi | 20.5"/45 Type 98C | Unique | 80 | 3090 | Untested |
 
@@ -83,14 +83,14 @@ BOTS
 | PCA | Mandel | 12"/45 cal Model 1910 | Unique | 70 | 2365 | Untested |
 | PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
 | EBB2 | Le Havre | 12"/45 cal Model 1906 | Light | 75 | 2786 | Untested |
-| EBB3.5 | Lyon (1943) | 13.4"/45 cal Model 1928 | Unique | 80 | 2875 | Untested |
+| EBB3.5 | Lyon (1943) | 13.4"/45 cal Model 1928  -79 | 17.24 -35| 80-40 | 2883 | 915+249 |
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
-| PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
+| PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935-Light- | 18.56-35| 80-35 | 2863| 1330|
 | EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931-2933 | 3449 |
-| BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2931-2933 | 3449 |
-| EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931-2933 | 3449 |
-| BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
-| EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944 | Unique | 80 | 3011 | 3525 |
+| BB5 | Alsace | 18.89"/45 cal Model 1936 -100| 20.00 -40| 80-40 | 2959 | 1350+252 |
+| EBB5 | Thermidor | 18.89"/45 cal Model 1942  -115 | 20.04 -40| 80-30 | 2959 | 1350+ 252 |
+| BB6 | Charlemagne | 18.89"/45 cal Model 1945 -120 | 20.70 -40| 80-40 | 3021| 1450 |
+| EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944  -120| 20.70 -40| 80-40 | 3021| 1450 |
 | BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3015-3017 | 3535 |
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021-3023 | Untested |
 
@@ -103,11 +103,11 @@ BOTS
 | BB4 | Starlingrad | 16"/45 Pattern 1914-light-91 | 19-45| 80-35 | 2928 | 3444 |
 | EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914 | Light | 80 | 2928 | 3444 |
 | BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937 | Unique | 80 | 2966 | 3488 |
-| EBB5 | Proletariat | 16" A-C-13-115| 20.52-45| 80-30 | 2955| 1073 |
-| EBB5.5 | Moskva | 16" TD-18-115 | 20.32-45| 80-35| 2976| 2200  |
-| BB6 | Project 24 | 18.1"/50 "Bolshevik" | Unique | 80-30 | 3102| 2600 |
-| EBB6 | Project 25 | 18.1" B-XT | Unique | 80 | 3102| 2600 |
-| BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | Unique | 80 | 3100 | Untested |
+| EBB5 | Proletariat | 16" A-C-13 -115| 20.52-45| 80-30 | 2955| 1073 |
+| EBB5.5 | Moskva | 16" TD-18 -115 | 20.32-45| 80-35| 2976| 2200  |
+| BB6 | Project 24 | 18.1"/50 "Bolshevik" -120 | 20.45 -45| 80-30 | 3102| 2600 |
+| EBB6 | Project 25 | 18.1" B-XT -120 | 20.56 -45| 80-30 | 3102| 2600 |
+| BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | 21.36 -45| 80-40 | 3117| 1357|
 | BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | Unique | 80 | 3116 | Untested |
 
 ### Regia Marina 
